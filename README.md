@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web-Development**
 
-- 👯 I’m looking to collaborate on **other programmers**
+- 👯 I’m looking to collaborate with **other programmers**
 
 - 💬 Ask me about **anything I can do**
 
