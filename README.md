@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indeedsunil&label=Profile%20views&color=0e75b6&style=flat" alt="indeedsunil" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [lamichhanesunil.com.np ( still working on it btw )](lamichhanesunil.com.np ( still working on it btw ))
+- All of my projects are available at [lamichhanesunil.com.np ( still working on it btw )](lamichhanesunil.com.np ( still working on it btw ))
 
-- 💬 Ask me about **react, photography**
+- Ask me about **react, photography**
 
-- 📫 How to reach me **sunillamichhanefloats@gmail.com**
+- How to reach me **sunillamichhanefloats@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
